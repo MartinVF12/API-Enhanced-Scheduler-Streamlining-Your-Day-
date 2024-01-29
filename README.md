@@ -17,4 +17,4 @@ The provided JavaScript code is for a Work Day Scheduler application. It leverag
 
 The application is designed to help users manage their daily schedules effectively within the specified working hours. It provides a visual representation of past, present, and future tasks, along with the ability to save and retrieve events. The combination of these features creates a simple and interactive workday scheduler.
 
-<img width="1093" alt="Captura de pantalla 2024-01-29 a la(s) 10 52 13 a m" src="https://github.com/MartinVF12/API-Enhanced-Scheduler-Streamlining-Your-Day-/assets/152545821/a4a90d85-3128-4113-a970-3fc6574010e4"> 
+<img width="1093" alt="Captura de pantalla 2024-01-29 a la(s) 10 52 13 a m" src="https://github.com/MartinVF12/API-Enhanced-Scheduler-Streamlining-Your-Day-/assets/152545821/a4a90d85-3128-4113-a970-3fc6574010e4">  
